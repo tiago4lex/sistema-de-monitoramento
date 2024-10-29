@@ -1,0 +1,73 @@
+{
+    "1234": {
+        "nome": "Tiago",
+        "disciplinas": [
+            {
+                "nome": "Matematica",
+                "notas": [
+                    10.0,
+                    7.0
+                ],
+                "faltas": 9,
+                "max_faltas": 5
+            },
+            {
+                "nome": "Portugues",
+                "notas": [
+                    3.0,
+                    4.0,
+                    2.0
+                ],
+                "faltas": 1,
+                "max_faltas": 5
+            },
+            {
+                "nome": "Ingles",
+                "notas": [
+                    10.0,
+                    10.0,
+                    10.0,
+                    1.0
+                ],
+                "faltas": 1,
+                "max_faltas": 5
+            }
+        ]
+    },
+    "1235": {
+        "nome": "Jo\u00e3o",
+        "disciplinas": [
+            {
+                "nome": "Ingles",
+                "notas": [
+                    10.0,
+                    10.0
+                ],
+                "faltas": 10,
+                "max_faltas": 5
+            },
+            {
+                "nome": "Matematica",
+                "notas": [
+                    3.0,
+                    4.0,
+                    5.0
+                ],
+                "faltas": 1,
+                "max_faltas": 5
+            },
+            {
+                "nome": "Portugues",
+                "notas": [
+                    10.0,
+                    10.0,
+                    10.0,
+                    10.0,
+                    10.0
+                ],
+                "faltas": 0,
+                "max_faltas": 5
+            }
+        ]
+    }
+}
